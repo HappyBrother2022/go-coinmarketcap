@@ -1,14 +1,14 @@
 # go-coinmarketcap
 
-[![License](http://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/hexoul/go-coinmarketcap/master/LICENSE)
+<!-- [![License](http://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/hexoul/go-coinmarketcap/master/LICENSE)
 [![Go Report Card](https://goreportcard.com/badge/github.com/hexoul/go-coinmarketcap)](https://goreportcard.com/report/github.com/hexoul/go-coinmarketcap)
-[![GoDoc](https://godoc.org/github.com/hexoul/go-coinmarketcap?status.svg)](https://godoc.org/github.com/hexoul/go-coinmarketcap)
+[![GoDoc](https://godoc.org/github.com/hexoul/go-coinmarketcap?status.svg)](https://godoc.org/github.com/hexoul/go-coinmarketcap) -->
 
 > Coinmarketcap (CMC) Pro API Client written in Golang
 
 ## Install
 
-`go get -u github.com/hexoul/go-coinmarketcap`
+`go get -u github.com/happybrother2022/go-coinmarketcap`
 
 ## Getting started
 
@@ -21,8 +21,8 @@ package main
 import (
     "fmt"
 
-    cmc "github.com/hexoul/go-coinmarketcap"
-    "github.com/hexoul/go-coinmarketcap/types"
+    cmc "github.com/happybrother2022/go-coinmarketcap"
+    "github.com/happybrother2022/go-coinmarketcap/types"
 )
 
 func init() {
